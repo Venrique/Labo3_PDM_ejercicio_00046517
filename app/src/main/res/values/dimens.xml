@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="editview">300dp</dimen>
+    <dimen name="result_text">25sp</dimen>
+</resources>
